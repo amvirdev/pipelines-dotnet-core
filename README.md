@@ -1,3 +1,4 @@
+https://dev.azure.com/mail2amvir/SimpleCoreApp/_apis/build/status/amvirdev.pipelines-dotnet-core?branchName=master
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
